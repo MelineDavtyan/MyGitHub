@@ -15,6 +15,8 @@ namespace Meline_sCoreApp
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
+            //my first commit
+
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
